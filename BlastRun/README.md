@@ -1,2 +1,2 @@
-# example_game
+# BlastRun
 A simple example JavaFX program
